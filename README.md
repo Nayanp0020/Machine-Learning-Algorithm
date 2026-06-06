@@ -80,3 +80,11 @@ By using this repository, you will learn:
 ```bash
 git clone https://github.com/your-username/ML-Algorithms.git
 cd ML-Algorithms
+Open notebooks in:
+
+Jupyter Notebook
+Google Colab
+
+👨‍💻 Author
+Nayan Paawar
+AI & ML Enthusiast
